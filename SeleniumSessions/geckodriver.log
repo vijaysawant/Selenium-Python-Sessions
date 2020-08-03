@@ -1,0 +1,532 @@
+1594043435243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3TfF4u"
+1594043435603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1594043435823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1594043435823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1594043435823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1594043435823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1594043437365	Marionette	INFO	Listening on port 43753
+1594043437450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 293: TypeError: $(...).uls is not a function
+1594043444446	Marionette	INFO	Stopped listening on port 43753
+1594043463903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewereuY"
+1594043464148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1594043464326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1594043464326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1594043464326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1594043464326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1594043465783	Marionette	INFO	Listening on port 32885
+1594043465811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594043468114	Marionette	INFO	Stopped listening on port 32885
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+JavaScript error: https://start.fedoraproject.org/, line 292: ReferenceError: $ is not defined
+1595080441530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepeyoZD"
+1595080441848	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595080441866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595080441866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595080441866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595080441866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595080443437	Marionette	INFO	Listening on port 36477
+1595080443536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595080454384	Marionette	INFO	Stopped listening on port 36477
+1595080465765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNj8I7F"
+1595080466045	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595080466067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595080466067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595080466068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595080466068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595080467820	Marionette	INFO	Listening on port 33297
+1595080467873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595080479196	Marionette	INFO	Stopped listening on port 33297
+1595521417312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileafXA7I"
+1595521417606	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595521417620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595521417620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595521417621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595521417621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595521418929	Marionette	INFO	Listening on port 44587
+1595521419018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595521425468	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595521430686	Marionette	INFO	Stopped listening on port 44587
+1595521444577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNVLPFV"
+1595521444805	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595521444820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595521444820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595521444820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595521444820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595521446068	Marionette	INFO	Listening on port 34747
+1595521446082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595521458548	Marionette	INFO	Stopped listening on port 34747
+1595521579405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDLQ3gH"
+1595521579644	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595521579659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595521579659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595521579659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595521579659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595521580952	Marionette	INFO	Listening on port 46631
+1595521581014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595521593357	Marionette	INFO	Stopped listening on port 46631
+1595521603233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyYpwmt"
+1595521603471	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595521603486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595521603486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595521603486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595521603486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 136: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1595521604729	Marionette	INFO	Listening on port 40165
+1595521604739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595521619319	Marionette	INFO	Stopped listening on port 40165
+1595523420026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecPz7eL"
+1595523420260	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595523420275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595523420275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595523420275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595523420275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595523421507	Marionette	INFO	Listening on port 42993
+1595523421531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595523694616	Marionette	INFO	Stopped listening on port 42993
+1595523709600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVKHmxT"
+1595523709830	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595523709844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595523709844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595523709844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595523709845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595523711058	Marionette	INFO	Listening on port 45279
+1595523711104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595523726629	Marionette	INFO	Stopped listening on port 45279
+JavaScript error: https://start.fedoraproject.org/, line 291: ReferenceError: $ is not defined
+1595525305112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4dq57L"
+1595525305361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525305377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525305377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525305377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525305377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525306580	Marionette	INFO	Listening on port 43027
+1595525306617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595525356180	Marionette	INFO	Stopped listening on port 43027
+1595525392601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKN7PwV"
+1595525392833	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595525392849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595525392849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595525392849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595525392850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595525394224	Marionette	INFO	Listening on port 36719
+1595525394306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595525428377	Marionette	INFO	Stopped listening on port 36719
+1595526300191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2fOe1x"
+1595526300421	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526300436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526300436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526300436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526300436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526301687	Marionette	INFO	Listening on port 39419
+1595526301703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595526356342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1aZ0n8"
+1595526356603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526356622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526356622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526356622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526356622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526357917	Marionette	INFO	Listening on port 45813
+1595526357949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595526360801	Marionette	INFO	Stopped listening on port 39419
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595526372344	Marionette	INFO	Stopped listening on port 45813
+1595526521396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecTZH5o"
+1595526521622	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595526521638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595526521638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595526521638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595526521638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595526522949	Marionette	INFO	Listening on port 43683
+1595526523003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595526537382	Marionette	INFO	Stopped listening on port 43683
+1595835545581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev7adG0"
+1595835545884	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595835545902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595835545902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595835545902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595835545902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595835547140	Marionette	INFO	Listening on port 45963
+1595835547190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595835561778	Marionette	INFO	Stopped listening on port 45963
+1595840152278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVGyq6K"
+1595840152607	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595840152623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595840152623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595840152623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595840152623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595840153963	Marionette	INFO	Listening on port 36909
+1595840154011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595840168708	Marionette	INFO	Stopped listening on port 36909
+1595840231211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletgy0J5"
+1595840231428	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595840231443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595840231443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595840231443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595840231443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595840232650	Marionette	INFO	Listening on port 45803
+1595840232735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595840247117	Marionette	INFO	Stopped listening on port 45803
+1595840323066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuf8hPt"
+1595840323284	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595840323299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595840323299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595840323300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595840323300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595840324536	Marionette	INFO	Listening on port 35863
+1595840324651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595840339007	Marionette	INFO	Stopped listening on port 35863
+1595841834625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUjluLn"
+1595841834867	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595841834882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595841834882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595841834882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595841834882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595841836068	Marionette	INFO	Listening on port 42301
+1595841836131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595841850612	Marionette	INFO	Stopped listening on port 42301
+1595842016471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejNc4H4"
+1595842016701	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595842016715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595842016715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595842016716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595842016716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595842017953	Marionette	INFO	Listening on port 37773
+1595842017976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595842032686	Marionette	INFO	Stopped listening on port 37773
+1595842082660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3OyHU0"
+1595842082879	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595842082894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595842082894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595842082894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595842082894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595842084117	Marionette	INFO	Listening on port 35583
+1595842084185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595842097774	Marionette	INFO	Stopped listening on port 35583
+1595917250648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemB8Jky"
+1595917250870	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595917250884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595917250884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595917250884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595917250884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595917252114	Marionette	INFO	Listening on port 43445
+1595917252182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595917265698	Marionette	INFO	Stopped listening on port 43445
+1595919259552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegb2Umf"
+1595919259778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595919259793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595919259793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595919259793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595919259793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595919261028	Marionette	INFO	Listening on port 43357
+1595919261061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595919278039	Marionette	INFO	Stopped listening on port 43357
+1595921441542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1HoL5g"
+1595921441768	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595921441783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595921441783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595921441783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595921441783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595921443014	Marionette	INFO	Listening on port 36953
+1595921443048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595921456828	Marionette	INFO	Stopped listening on port 36953
+1595921503522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8UKKZ"
+1595921503768	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595921503782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595921503782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595921503783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595921503783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595921505022	Marionette	INFO	Listening on port 44205
+1595921505040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595921518266	Marionette	INFO	Stopped listening on port 44205
+1595921607511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIqci4i"
+1595921607740	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595921607755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595921607755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595921607755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595921607755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595921608974	Marionette	INFO	Listening on port 43247
+1595921609048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595922624924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIyJN82"
+1595922625162	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595922625177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595922625177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595922625177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595922625177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595922626411	Marionette	INFO	Listening on port 39407
+1595922626432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595922643140	Marionette	INFO	Stopped listening on port 39407
+1595922659167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletSsLW2"
+1595922659397	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595922659414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595922659414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595922659414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595922659414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595922660708	Marionette	INFO	Listening on port 34463
+1595922660773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595922677914	Marionette	INFO	Stopped listening on port 34463
+1595922737833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNinRQS"
+1595922738052	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595922738068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595922738068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595922738068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595922738068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595922739275	Marionette	INFO	Listening on port 45115
+1595922739338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595922752806	Marionette	INFO	Stopped listening on port 45115
+1595922904610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzPa0t"
+1595922904837	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595922904852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595922904852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595922904853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595922904853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595922906097	Marionette	INFO	Listening on port 41173
+1595922906115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595922921900	Marionette	INFO	Stopped listening on port 41173
+1595922941136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefCIswO"
+1595922941361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595922941377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595922941377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595922941377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595922941377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595922942626	Marionette	INFO	Listening on port 34295
+1595922942641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1595922956789	Marionette	INFO	Stopped listening on port 34295
+1595927500181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletx6buw"
+1595927500406	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595927500421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595927500421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595927500421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595927500421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595927501670	Marionette	INFO	Listening on port 43297
+1595927501686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595927820414	Marionette	INFO	Stopped listening on port 43297
+1595927821555	Marionette	INFO	Stopped listening on port 43247
+1595927835876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xX7yC"
+1595927836109	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595927836124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595927836124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595927836124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595927836124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595927837348	Marionette	INFO	Listening on port 33557
+1595927837382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595928004787	Marionette	INFO	Stopped listening on port 33557
+1595928048974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHuF0c1"
+1595928049213	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595928049228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595928049228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595928049228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595928049228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595928050389	Marionette	INFO	Listening on port 46123
+1595928050480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595928271068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7zEc1"
+1595928271368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595928271389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595928271389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595928271389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595928271389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595928272401	Marionette	INFO	Stopped listening on port 46123
+1595928272936	Marionette	INFO	Listening on port 38527
+1595928272976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+1595928308193	Marionette	INFO	Stopped listening on port 38527
+1595928563084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCVqnQ8"
+1595928563312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1595928563327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1595928563327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1595928563327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1595928563327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1595928564496	Marionette	INFO	Listening on port 40697
+1595928564644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/assets/application-f881f60a1d56c5029963517ade9c1e3a59a4690d757563015c9a8a558f1156a6.js, line 1: TypeError: t is undefined
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+JavaScript error: https://i18nqe-vm010.lab.eng.pnq.redhat.com/webpack/bundle-308dd998260bd2ad024e.js, line 1: Error: Can't find a registered interval process for: NOTIFICATIONS
+1595928638752	Marionette	INFO	Stopped listening on port 40697
+1596015133536	geckodriver	INFO	Listening on 127.0.0.1:44419
+1596015166796	geckodriver	INFO	Listening on 127.0.0.1:55835
+1596015217651	geckodriver	INFO	Listening on 127.0.0.1:56249
+1596015710847	geckodriver	INFO	Listening on 127.0.0.1:49275
+1596015863560	geckodriver	INFO	Listening on 127.0.0.1:57125
+1596015965854	geckodriver	INFO	Listening on 127.0.0.1:58393
+1596021032968	geckodriver	INFO	Listening on 127.0.0.1:53347
+1596385387493	geckodriver	INFO	Listening on 127.0.0.1:47513

@@ -1,0 +1,3 @@
+pip install -U selenium
+pip install webdriver-manager
+pip install pyyaml
