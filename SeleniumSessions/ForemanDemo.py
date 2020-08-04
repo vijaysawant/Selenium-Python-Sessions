@@ -84,6 +84,8 @@ try:
         print(driver.title)
 except Exception as e:
     print("Exception found : ",e)
+time.sleep(2)
+driver.get(base_URL)
 Acc_menu = driver.find_element(By.ID, "account_menu")
 Acc_menu.click()
 driver.implicitly_wait(1)

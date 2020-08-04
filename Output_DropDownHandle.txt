@@ -1,0 +1,50 @@
+/home/vsawant/PycharmProjects/Selenium-Python-Sessions/venv/bin/python /home/vsawant/PycharmProjects/Selenium-Python-Sessions/SeleniumSessions/DropDownHandle.py
+/bin/sh: chromium: command not found
+[WDM] - Current chromium version is 81.0.4044
+[WDM] - Get LATEST driver version for 81.0.4044
+
+[WDM] - Driver [/home/vsawant/.wdm/drivers/chromedriver/linux64/81.0.4044.138/chromedriver] found in cache
+Page Title :  Free Human Resource Management Software | 30 Day Trial Creation
+- No Of Employees -
+0 - 10
+11 - 15
+16 - 20
+21 - 25
+26 - 50
+51 - 75
+76 - 100
+101 - 150
+151 - 200
+201 - 250
+251 - 300
+301 - 350
+351 - 400
+401 - 450
+451 - 500
+501 - 600
+601 - 700
+701 - 800
+801 - 900
+901 - 1,000
+1,001 - 1,500
+1,501 - 2,000
+2,001 - 2,500
+2,501 - 3,000
+3,001 - 3,500
+3,501 - 4,000
+4,001 - 4,500
+4,501 - 5,000
+5,001 - 5,500
+5,501 - 6,000
+6,001 - 6,500
+6,501 - 7,000
+7,001 - 7,500
+7,501 - 8,000
+8,001 - 8,500
+8,501 - 9,000
+9,001 - 9,500
+9,501 - 10,000
+10,000+
+Selected country name -> India
+
+Process finished with exit code 0

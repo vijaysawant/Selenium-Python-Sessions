@@ -50,7 +50,7 @@ ele_num_of_emp_drop_down = driver.find_element(By.ID, "Form_submitForm_NoOfEmplo
 element_emp = Select(ele_num_of_emp_drop_down)
 element_emp.select_by_index(2)
 time.sleep(2)
-# 2 By text
+# 2 By visible text
 ele_industry_drop_down = driver.find_element(By.ID, "Form_submitForm_Industry")
 element_ind = Select(ele_industry_drop_down)
 element_ind.select_by_visible_text("Automotive")
