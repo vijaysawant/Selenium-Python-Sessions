@@ -1,4 +1,4 @@
-# Note : This is not actual requirement.txt, it will be upadated.
+# Note : This is not actual requirement.txt, it will be updated.
 #pip install -U selenium
 #pip install webdriver-manager
 #pip install pyyaml
