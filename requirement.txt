@@ -1,3 +1,8 @@
-pip install -U selenium
-pip install webdriver-manager
-pip install pyyaml
+# Note : This is not actual requirement.txt, it will be upadated.
+#pip install -U selenium
+#pip install webdriver-manager
+#pip install pyyaml
+
+selenium
+webdriver-manager
+pyyaml
