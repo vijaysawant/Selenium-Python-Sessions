@@ -1,0 +1,12 @@
+conf.yaml
+geckodriver.log
+Output_DropDownHandle.txt
+Output_DropDownHandleCommonMethod.txt
+Output_ForemanDemo.txt
+temp.txt
+screen_shot_ja_JP/
+screen_shots/
+screen_shots_en_US/
+screen_shots_zh_CN/
+venv/
+.idea
